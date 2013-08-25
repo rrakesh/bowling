@@ -1,4 +1,7 @@
 
+/**
+This represents a leaf node
+**/
 public class LeafNode implements ComponentNode
 {
     protected int item;
